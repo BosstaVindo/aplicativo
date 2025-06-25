@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Auto Dialer</string>
+    <string name="action_settings">Configurações</string>
+    <string name="action_refresh">Atualizar</string>
+    
+    <!-- MainActivity -->
+    <string name="checking_root">Verificando ROOT...</string>
+    <string name="root_available">✅ ROOT disponível</string>
+    <string name="root_not_available">❌ ROOT não disponível</string>
+    
+    <string name="checking_permissions">Verificando permissões...</string>
+    <string name="all_permissions_granted">✅ Todas as permissões concedidas</string>
+    <string name="permissions_pending">❌ Permissões pendentes</string>
+    
+    <string name="checking_default_dialer">Verificando discador padrão...</string>
+    <string name="is_default_dialer">✅ Configurado como discador padrão</string>
+    <string name="not_default_dialer">❌ Não é o discador padrão</string>
+    
+    <!-- Service -->
+    <string name="service_started">Serviço de discagem iniciado</string>
+    <string name="service_stopped">Serviço de discagem parado</string>
+    <string name="auto_dialer_active">Auto Dialer Ativo</string>
+    <string name="auto_dialer_service_running">Serviço de discagem automática em execução</string>
+    
+    <!-- Settings -->
+    <string name="settings_title">Configurações</string>
+    <string name="conference_size">Tamanho da Conferência</string>
+    <string name="retry_attempts">Tentativas de Rediscagem</string>
+    <string name="call_timeout">Timeout da Chamada (segundos)</string>
+    <string name="delay_between_calls">Delay Entre Chamadas (segundos)</string>
+    <string name="server_url">URL do Servidor</string>
+    <string name="save_settings">Salvar Configurações</string>
+
+    <!-- QR Scanner -->
+    <string name="qr_scanner_title">Scanner QR Code</string>
+    <string name="qr_scanner_instruction">Posicione o QR Code dentro do quadro</string>
+    <string name="qr_scan_button">Scanner QR Code</string>
+    <string name="camera_permission_required">Permissão de câmera necessária</string>
+    
+    <!-- Buttons -->
+    <string name="request_permissions">Solicitar Permissões</string>
+    <string name="set_default_dialer">Definir como Discador Padrão</string>
+    <string name="start_service">Iniciar Serviço</string>
+    <string name="stop_service">Parar Serviço</string>
+    <string name="settings">Configurações</string>
+    
+    <!-- Status -->
+    <string name="system_status">Status do Sistema</string>
+    <string name="service_control">Controle do Serviço</string>
+    <string name="warning_root_required">⚠️ Requer ROOT e todas as permissões\npara funcionamento completo</string>
+</resources>

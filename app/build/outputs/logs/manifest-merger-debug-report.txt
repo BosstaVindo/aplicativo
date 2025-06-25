@@ -1,0 +1,634 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:2:1-175:12
+INJECTED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:2:1-175:12
+INJECTED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:2:1-175:12
+INJECTED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:2:1-175:12
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\986a212a12622cb964fe17b956b45cb8\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\ecdf387240018a8b0318dd875a17996d\transformed\constraintlayout-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.camera:camera-video:1.3.1] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\d722f0b0dedced9108341c98c3900f66\transformed\camera-video-1.3.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.camera:camera-core:1.3.1] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\11b1e5a9b90641feaddc93d844386d3a\transformed\camera-core-1.3.1\AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.camera:camera-lifecycle:1.3.1] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\b42a977ddbfae0b1673756fa77092761\transformed\camera-lifecycle-1.3.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.camera:camera-camera2:1.3.1] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\497939ca3b8d7eac0671e640c7c32ab4\transformed\camera-camera2-1.3.1\AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.camera:camera-view:1.3.1] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\e30a2e52486ae386bc1667a9fec18b5c\transformed\camera-view-1.3.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\2d3f99ed5670c207757526fd3c611fa9\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\63329ada994690e48043b7b3bc19279f\transformed\appcompat-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\f9a26bddf85ba64737e4fe38cbc2c6fe\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\a4811a54d47007b2ea023c080e617956\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\0ae7dd6b09c472e6a43792eb54d50787\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\50d99d8d2dfc6444be818e2d1df847a3\transformed\fragment-1.5.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\06d1b3b2200a170b5d8c280d4980a9e5\transformed\activity-1.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\ac2aa75ef2b0c40e7a1e840ae4821961\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\d4fde4fd08f941d1ec911278966e4edf\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\a5d271f09bd3a3b9c3d495f64b1d7187\transformed\transition-1.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\3647e46ce9d7e767397f4a26991dff0f\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\a7e53bec0a825868bc85a1e6fbbb4682\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\4264ceee4739bdc74063fa839da131c8\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\625eef79f585234a94fc512845c9928e\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\f87ca9571a3e184989f4f03909090893\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\4267a1da66a70ce411f6927d1e324ed0\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\e32e8f217c25566676de20b246b89367\transformed\lifecycle-livedata-core-ktx-2.8.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\4d6a3e6a85695f2ceaba9cfc1e21df0a\transformed\lifecycle-livedata-2.8.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\74fa676eed0599831003ee6ad82b0780\transformed\lifecycle-viewmodel-2.8.7\AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\d9431cd36272e3ebc84ef0742b0ce150\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\3afe318e37f1563920cc2a090ac1ac92\transformed\lifecycle-runtime-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\319c923010f1f22b3b5d1066d62993e6\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\daf3ae7e755b44bbb7e9d312a141e3e5\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.8.7] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\5cbdb82821d30254b50f18c2b295126f\transformed\lifecycle-service-2.8.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\04d1b19d837181f1a2f3feb031ce2c17\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.15.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\635f385fb656354f78626debb5d0e834\transformed\core-ktx-1.15.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\f92e28370dd86e6ee5eaad3cc51cd473\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\a0d676358dbb6442d2690be901c39317\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\3ea02ed86e47f4db91aec16e38bf17a4\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.15.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\defb900a0c2e5092b5434231d8c1c27e\transformed\core-1.15.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\e6cd83fefad1c1f5eb7298b6d3970dbb\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\cc0676b33ec06124797e5231817db017\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:17:1-56:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\52d9fa7aeaafec9349007b54f9c3489a\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\0db74c05b91e60b4097561523f7fc749\transformed\profileinstaller-1.4.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\5d443dd37c7dc98df4d467b6ad1b4540\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\ec135ffeeda0a0f8af22ec5aa3504259\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\a4d045ddeb61a4e2b19aa1b7171e6a14\transformed\tracing-1.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\f97622ea24a9238a01f937f39dc2b652\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\2c8517f1471d5505bb073db9db19cd96\transformed\exifinterface-1.3.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\2a1b46d999d6e65acb08edd5f05ec9f7\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\0e680fd63331042c27fe44b4fc920e81\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\5bf1a4d34eb77098d3b22eba306e9238\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\0f28f5c9a7951608b001dfbfd1b37145\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\63167e3a9ee70eee314d310369817ab9\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:6:5-69
+	android:name
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:6:22-66
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:7:5-75
+	android:name
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:7:22-72
+uses-permission#android.permission.MODIFY_PHONE_STATE
+ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:8:5-77
+	android:name
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:8:22-74
+uses-permission#android.permission.READ_CALL_LOG
+ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:9:5-72
+	android:name
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:9:22-69
+uses-permission#android.permission.WRITE_CALL_LOG
+ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:10:5-73
+	android:name
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:10:22-70
+uses-permission#android.permission.MANAGE_OWN_CALLS
+ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:11:5-75
+	android:name
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:11:22-72
+uses-permission#android.permission.ANSWER_PHONE_CALLS
+ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:12:5-77
+	android:name
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:12:22-74
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:15:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:16:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:17:5-76
+	android:name
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:17:22-73
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:20:5-77
+	android:name
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:20:22-74
+uses-permission#android.permission.FOREGROUND_SERVICE_PHONE_CALL
+ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:21:5-88
+	android:name
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:21:22-85
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:22:22-65
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:23:5-78
+	android:name
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:23:22-75
+uses-permission#android.permission.CALL_PRIVILEGED
+ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:26:5-74
+	android:name
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:26:22-71
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:27:5-80
+	android:name
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:27:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:28:5-71
+	android:name
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:28:22-68
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:31:5-65
+MERGED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\cc0676b33ec06124797e5231817db017\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:22:5-65
+MERGED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\cc0676b33ec06124797e5231817db017\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:22:5-65
+	android:name
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:31:22-62
+uses-feature#android.hardware.camera
+ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:32:5-84
+MERGED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\cc0676b33ec06124797e5231817db017\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:25:5-27:36
+MERGED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\cc0676b33ec06124797e5231817db017\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:32:58-81
+	android:name
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:32:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:33:5-95
+MERGED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\cc0676b33ec06124797e5231817db017\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:33:5-35:36
+MERGED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\cc0676b33ec06124797e5231817db017\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:33:5-35:36
+	android:required
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:33:68-92
+	android:name
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:33:19-67
+uses-feature#android.hardware.telephony
+ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:36:5-87
+	android:required
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:36:61-84
+	android:name
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:36:19-60
+uses-feature#android.software.connectionservice
+ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:37:5-95
+	android:required
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:37:69-92
+	android:name
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:37:19-68
+application
+ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:39:5-174:19
+INJECTED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:39:5-174:19
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\986a212a12622cb964fe17b956b45cb8\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\986a212a12622cb964fe17b956b45cb8\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\ecdf387240018a8b0318dd875a17996d\transformed\constraintlayout-2.2.0\AndroidManifest.xml:7:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\ecdf387240018a8b0318dd875a17996d\transformed\constraintlayout-2.2.0\AndroidManifest.xml:7:5-20
+MERGED from [androidx.camera:camera-core:1.3.1] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\11b1e5a9b90641feaddc93d844386d3a\transformed\camera-core-1.3.1\AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-core:1.3.1] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\11b1e5a9b90641feaddc93d844386d3a\transformed\camera-core-1.3.1\AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-camera2:1.3.1] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\497939ca3b8d7eac0671e640c7c32ab4\transformed\camera-camera2-1.3.1\AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-camera2:1.3.1] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\497939ca3b8d7eac0671e640c7c32ab4\transformed\camera-camera2-1.3.1\AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\a4811a54d47007b2ea023c080e617956\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\a4811a54d47007b2ea023c080e617956\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\daf3ae7e755b44bbb7e9d312a141e3e5\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\daf3ae7e755b44bbb7e9d312a141e3e5\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.15.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\defb900a0c2e5092b5434231d8c1c27e\transformed\core-1.15.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.15.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\defb900a0c2e5092b5434231d8c1c27e\transformed\core-1.15.0\AndroidManifest.xml:28:5-89
+MERGED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\cc0676b33ec06124797e5231817db017\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:46:5-54:19
+MERGED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\cc0676b33ec06124797e5231817db017\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:46:5-54:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\0db74c05b91e60b4097561523f7fc749\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\0db74c05b91e60b4097561523f7fc749\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\ec135ffeeda0a0f8af22ec5aa3504259\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\ec135ffeeda0a0f8af22ec5aa3504259\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\f97622ea24a9238a01f937f39dc2b652\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\f97622ea24a9238a01f937f39dc2b652\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml
+	android:requestLegacyExternalStorage
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:47:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.15.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\defb900a0c2e5092b5434231d8c1c27e\transformed\core-1.15.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:45:9-35
+	android:label
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:44:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:42:9-54
+	tools:targetApi
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:48:9-29
+	android:icon
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:43:9-42
+	android:allowBackup
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:40:9-35
+	android:theme
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:46:9-48
+	android:dataExtractionRules
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:41:9-65
+activity#com.autodialer.MainActivity
+ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:51:9-62:20
+	android:launchMode
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:54:13-43
+	android:exported
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:52:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:57:13-60:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:58:17-69
+	android:name
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:58:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:59:17-77
+	android:name
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:59:27-74
+activity#com.autodialer.DialerActivity
+ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:65:9-95:20
+	android:exported
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:67:13-36
+	android:theme
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:68:13-52
+	android:name
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:66:13-43
+intent-filter#action:name:android.intent.action.DIAL+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:71:13-74:29
+action#android.intent.action.DIAL
+ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:72:17-69
+	android:name
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:72:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:73:17-76
+	android:name
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:73:27-73
+intent-filter#action:name:android.intent.action.DIAL+category:name:android.intent.category.DEFAULT+data:scheme:tel
+ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:76:13-80:29
+data
+ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:79:17-46
+	android:scheme
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:79:23-43
+intent-filter#action:name:android.intent.action.CALL+category:name:android.intent.category.DEFAULT+data:scheme:tel
+ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:82:13-86:29
+action#android.intent.action.CALL
+ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:83:17-69
+	android:name
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:83:25-66
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tel
+ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:88:13-93:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:89:17-69
+	android:name
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:89:25-66
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:91:17-78
+	android:name
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:91:27-75
+activity#com.autodialer.InCallActivity
+ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:98:9-109:20
+	android:excludeFromRecents
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:101:13-46
+	android:launchMode
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:102:13-48
+	android:exported
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:100:13-36
+	android:theme
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:103:13-52
+	android:name
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:99:13-43
+intent-filter#action:name:android.telecom.InCallService
+ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:105:13-107:29
+action#android.telecom.InCallService
+ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:106:17-72
+	android:name
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:106:25-69
+service#com.autodialer.service.AutoDialerInCallService
+ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:112:9-122:19
+	android:exported
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:115:13-36
+	android:permission
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:114:13-72
+	android:name
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:113:13-60
+meta-data#android.telecom.IN_CALL_SERVICE_UI
+ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:119:13-121:40
+	android:value
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:121:17-37
+	android:name
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:120:17-66
+service#com.autodialer.service.AutoDialerService
+ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:125:9-129:57
+	android:enabled
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:127:13-35
+	android:exported
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:128:13-37
+	android:foregroundServiceType
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:129:13-54
+	android:name
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:126:13-54
+service#com.autodialer.telecom.AutoDialerConnectionService
+ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:132:9-139:19
+	android:exported
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:135:13-36
+	android:permission
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:134:13-84
+	android:name
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:133:13-64
+intent-filter#action:name:android.telecom.ConnectionService
+ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:136:13-138:29
+action#android.telecom.ConnectionService
+ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:137:17-76
+	android:name
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:137:25-73
+receiver#com.autodialer.receiver.CallReceiver
+ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:142:9-149:20
+	android:enabled
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:144:13-35
+	android:exported
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:145:13-36
+	android:name
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:143:13-50
+intent-filter#action:name:android.intent.action.PHONE_STATE
+ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:146:13-148:29
+	android:priority
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:146:28-51
+action#android.intent.action.PHONE_STATE
+ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:147:17-76
+	android:name
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:147:25-73
+receiver#com.autodialer.receiver.CommandReceiver
+ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:152:9-159:20
+	android:enabled
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:154:13-35
+	android:exported
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:155:13-37
+	android:name
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:153:13-53
+intent-filter#action:name:com.autodialer.COMMAND
+ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:156:13-158:29
+action#com.autodialer.COMMAND
+ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:157:17-65
+	android:name
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:157:25-62
+activity#com.autodialer.SettingsActivity
+ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:162:9-165:58
+	android:parentActivityName
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:165:13-55
+	android:exported
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:164:13-37
+	android:name
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:163:13-45
+activity#com.autodialer.QRScannerActivity
+ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:168:9-172:55
+	android:screenOrientation
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:171:13-49
+	android:exported
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:170:13-37
+	android:theme
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:172:13-52
+	android:name
+		ADDED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml:169:13-46
+uses-sdk
+INJECTED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\986a212a12622cb964fe17b956b45cb8\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\986a212a12622cb964fe17b956b45cb8\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\ecdf387240018a8b0318dd875a17996d\transformed\constraintlayout-2.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\ecdf387240018a8b0318dd875a17996d\transformed\constraintlayout-2.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-video:1.3.1] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\d722f0b0dedced9108341c98c3900f66\transformed\camera-video-1.3.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-video:1.3.1] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\d722f0b0dedced9108341c98c3900f66\transformed\camera-video-1.3.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-core:1.3.1] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\11b1e5a9b90641feaddc93d844386d3a\transformed\camera-core-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-core:1.3.1] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\11b1e5a9b90641feaddc93d844386d3a\transformed\camera-core-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-lifecycle:1.3.1] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\b42a977ddbfae0b1673756fa77092761\transformed\camera-lifecycle-1.3.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-lifecycle:1.3.1] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\b42a977ddbfae0b1673756fa77092761\transformed\camera-lifecycle-1.3.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-camera2:1.3.1] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\497939ca3b8d7eac0671e640c7c32ab4\transformed\camera-camera2-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-camera2:1.3.1] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\497939ca3b8d7eac0671e640c7c32ab4\transformed\camera-camera2-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-view:1.3.1] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\e30a2e52486ae386bc1667a9fec18b5c\transformed\camera-view-1.3.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-view:1.3.1] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\e30a2e52486ae386bc1667a9fec18b5c\transformed\camera-view-1.3.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\2d3f99ed5670c207757526fd3c611fa9\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\2d3f99ed5670c207757526fd3c611fa9\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\63329ada994690e48043b7b3bc19279f\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\63329ada994690e48043b7b3bc19279f\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\f9a26bddf85ba64737e4fe38cbc2c6fe\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\f9a26bddf85ba64737e4fe38cbc2c6fe\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\a4811a54d47007b2ea023c080e617956\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\a4811a54d47007b2ea023c080e617956\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\0ae7dd6b09c472e6a43792eb54d50787\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\0ae7dd6b09c472e6a43792eb54d50787\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\50d99d8d2dfc6444be818e2d1df847a3\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\50d99d8d2dfc6444be818e2d1df847a3\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\06d1b3b2200a170b5d8c280d4980a9e5\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\06d1b3b2200a170b5d8c280d4980a9e5\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\ac2aa75ef2b0c40e7a1e840ae4821961\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\ac2aa75ef2b0c40e7a1e840ae4821961\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\d4fde4fd08f941d1ec911278966e4edf\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\d4fde4fd08f941d1ec911278966e4edf\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\a5d271f09bd3a3b9c3d495f64b1d7187\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\a5d271f09bd3a3b9c3d495f64b1d7187\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\3647e46ce9d7e767397f4a26991dff0f\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\3647e46ce9d7e767397f4a26991dff0f\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\a7e53bec0a825868bc85a1e6fbbb4682\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\a7e53bec0a825868bc85a1e6fbbb4682\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\4264ceee4739bdc74063fa839da131c8\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\4264ceee4739bdc74063fa839da131c8\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\625eef79f585234a94fc512845c9928e\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\625eef79f585234a94fc512845c9928e\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\f87ca9571a3e184989f4f03909090893\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\f87ca9571a3e184989f4f03909090893\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\4267a1da66a70ce411f6927d1e324ed0\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\4267a1da66a70ce411f6927d1e324ed0\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\e32e8f217c25566676de20b246b89367\transformed\lifecycle-livedata-core-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\e32e8f217c25566676de20b246b89367\transformed\lifecycle-livedata-core-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\4d6a3e6a85695f2ceaba9cfc1e21df0a\transformed\lifecycle-livedata-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\4d6a3e6a85695f2ceaba9cfc1e21df0a\transformed\lifecycle-livedata-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\74fa676eed0599831003ee6ad82b0780\transformed\lifecycle-viewmodel-2.8.7\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\74fa676eed0599831003ee6ad82b0780\transformed\lifecycle-viewmodel-2.8.7\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\d9431cd36272e3ebc84ef0742b0ce150\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\d9431cd36272e3ebc84ef0742b0ce150\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\3afe318e37f1563920cc2a090ac1ac92\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\3afe318e37f1563920cc2a090ac1ac92\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\319c923010f1f22b3b5d1066d62993e6\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\319c923010f1f22b3b5d1066d62993e6\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\daf3ae7e755b44bbb7e9d312a141e3e5\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\daf3ae7e755b44bbb7e9d312a141e3e5\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.8.7] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\5cbdb82821d30254b50f18c2b295126f\transformed\lifecycle-service-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.8.7] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\5cbdb82821d30254b50f18c2b295126f\transformed\lifecycle-service-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\04d1b19d837181f1a2f3feb031ce2c17\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\04d1b19d837181f1a2f3feb031ce2c17\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.15.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\635f385fb656354f78626debb5d0e834\transformed\core-ktx-1.15.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.15.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\635f385fb656354f78626debb5d0e834\transformed\core-ktx-1.15.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\f92e28370dd86e6ee5eaad3cc51cd473\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\f92e28370dd86e6ee5eaad3cc51cd473\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\a0d676358dbb6442d2690be901c39317\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\a0d676358dbb6442d2690be901c39317\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\3ea02ed86e47f4db91aec16e38bf17a4\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\3ea02ed86e47f4db91aec16e38bf17a4\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.15.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\defb900a0c2e5092b5434231d8c1c27e\transformed\core-1.15.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.15.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\defb900a0c2e5092b5434231d8c1c27e\transformed\core-1.15.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\e6cd83fefad1c1f5eb7298b6d3970dbb\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\e6cd83fefad1c1f5eb7298b6d3970dbb\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\cc0676b33ec06124797e5231817db017\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\cc0676b33ec06124797e5231817db017\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\52d9fa7aeaafec9349007b54f9c3489a\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\52d9fa7aeaafec9349007b54f9c3489a\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\0db74c05b91e60b4097561523f7fc749\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\0db74c05b91e60b4097561523f7fc749\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\5d443dd37c7dc98df4d467b6ad1b4540\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\5d443dd37c7dc98df4d467b6ad1b4540\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\ec135ffeeda0a0f8af22ec5aa3504259\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\ec135ffeeda0a0f8af22ec5aa3504259\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\a4d045ddeb61a4e2b19aa1b7171e6a14\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\a4d045ddeb61a4e2b19aa1b7171e6a14\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\f97622ea24a9238a01f937f39dc2b652\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\f97622ea24a9238a01f937f39dc2b652\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\2c8517f1471d5505bb073db9db19cd96\transformed\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\2c8517f1471d5505bb073db9db19cd96\transformed\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\2a1b46d999d6e65acb08edd5f05ec9f7\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\2a1b46d999d6e65acb08edd5f05ec9f7\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\0e680fd63331042c27fe44b4fc920e81\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\0e680fd63331042c27fe44b4fc920e81\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\5bf1a4d34eb77098d3b22eba306e9238\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\5bf1a4d34eb77098d3b22eba306e9238\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\0f28f5c9a7951608b001dfbfd1b37145\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\0f28f5c9a7951608b001dfbfd1b37145\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\63167e3a9ee70eee314d310369817ab9\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\63167e3a9ee70eee314d310369817ab9\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\BosstaVindo\Downloads\APLICATIVO\app\src\main\AndroidManifest.xml
+service#androidx.camera.core.impl.MetadataHolderService
+ADDED from [androidx.camera:camera-core:1.3.1] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\11b1e5a9b90641feaddc93d844386d3a\transformed\camera-core-1.3.1\AndroidManifest.xml:29:9-33:78
+MERGED from [androidx.camera:camera-camera2:1.3.1] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\497939ca3b8d7eac0671e640c7c32ab4\transformed\camera-camera2-1.3.1\AndroidManifest.xml:24:9-33:19
+MERGED from [androidx.camera:camera-camera2:1.3.1] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\497939ca3b8d7eac0671e640c7c32ab4\transformed\camera-camera2-1.3.1\AndroidManifest.xml:24:9-33:19
+	android:enabled
+		ADDED from [androidx.camera:camera-core:1.3.1] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\11b1e5a9b90641feaddc93d844386d3a\transformed\camera-core-1.3.1\AndroidManifest.xml:31:13-36
+	android:exported
+		ADDED from [androidx.camera:camera-core:1.3.1] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\11b1e5a9b90641feaddc93d844386d3a\transformed\camera-core-1.3.1\AndroidManifest.xml:32:13-37
+	tools:ignore
+		ADDED from [androidx.camera:camera-core:1.3.1] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\11b1e5a9b90641feaddc93d844386d3a\transformed\camera-core-1.3.1\AndroidManifest.xml:33:13-75
+	android:name
+		ADDED from [androidx.camera:camera-core:1.3.1] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\11b1e5a9b90641feaddc93d844386d3a\transformed\camera-core-1.3.1\AndroidManifest.xml:30:13-75
+meta-data#androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER
+ADDED from [androidx.camera:camera-camera2:1.3.1] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\497939ca3b8d7eac0671e640c7c32ab4\transformed\camera-camera2-1.3.1\AndroidManifest.xml:30:13-32:89
+	android:value
+		ADDED from [androidx.camera:camera-camera2:1.3.1] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\497939ca3b8d7eac0671e640c7c32ab4\transformed\camera-camera2-1.3.1\AndroidManifest.xml:32:17-86
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.3.1] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\497939ca3b8d7eac0671e640c7c32ab4\transformed\camera-camera2-1.3.1\AndroidManifest.xml:31:17-103
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\a4811a54d47007b2ea023c080e617956\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\daf3ae7e755b44bbb7e9d312a141e3e5\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\daf3ae7e755b44bbb7e9d312a141e3e5\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\0db74c05b91e60b4097561523f7fc749\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\0db74c05b91e60b4097561523f7fc749\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\ec135ffeeda0a0f8af22ec5aa3504259\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\ec135ffeeda0a0f8af22ec5aa3504259\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\a4811a54d47007b2ea023c080e617956\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\a4811a54d47007b2ea023c080e617956\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\a4811a54d47007b2ea023c080e617956\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\a4811a54d47007b2ea023c080e617956\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\a4811a54d47007b2ea023c080e617956\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\a4811a54d47007b2ea023c080e617956\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\a4811a54d47007b2ea023c080e617956\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\daf3ae7e755b44bbb7e9d312a141e3e5\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\daf3ae7e755b44bbb7e9d312a141e3e5\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\daf3ae7e755b44bbb7e9d312a141e3e5\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\defb900a0c2e5092b5434231d8c1c27e\transformed\core-1.15.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.15.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\defb900a0c2e5092b5434231d8c1c27e\transformed\core-1.15.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.15.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\defb900a0c2e5092b5434231d8c1c27e\transformed\core-1.15.0\AndroidManifest.xml:23:9-81
+permission#com.autodialer.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\defb900a0c2e5092b5434231d8c1c27e\transformed\core-1.15.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.15.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\defb900a0c2e5092b5434231d8c1c27e\transformed\core-1.15.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.15.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\defb900a0c2e5092b5434231d8c1c27e\transformed\core-1.15.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\defb900a0c2e5092b5434231d8c1c27e\transformed\core-1.15.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.15.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\defb900a0c2e5092b5434231d8c1c27e\transformed\core-1.15.0\AndroidManifest.xml:26:22-94
+uses-permission#com.autodialer.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\defb900a0c2e5092b5434231d8c1c27e\transformed\core-1.15.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.15.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\defb900a0c2e5092b5434231d8c1c27e\transformed\core-1.15.0\AndroidManifest.xml:26:22-94
+uses-feature#android.hardware.camera.front
+ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\cc0676b33ec06124797e5231817db017\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:28:5-30:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\cc0676b33ec06124797e5231817db017\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:30:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\cc0676b33ec06124797e5231817db017\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:29:9-53
+uses-feature#android.hardware.camera.flash
+ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\cc0676b33ec06124797e5231817db017\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:36:5-38:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\cc0676b33ec06124797e5231817db017\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:38:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\cc0676b33ec06124797e5231817db017\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:37:9-53
+uses-feature#android.hardware.screen.landscape
+ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\cc0676b33ec06124797e5231817db017\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:39:5-41:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\cc0676b33ec06124797e5231817db017\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:41:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\cc0676b33ec06124797e5231817db017\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:40:9-57
+uses-feature#android.hardware.wifi
+ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\cc0676b33ec06124797e5231817db017\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:42:5-44:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\cc0676b33ec06124797e5231817db017\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:44:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\cc0676b33ec06124797e5231817db017\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:43:9-45
+activity#com.journeyapps.barcodescanner.CaptureActivity
+ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\cc0676b33ec06124797e5231817db017\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:47:9-53:63
+	android:screenOrientation
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\cc0676b33ec06124797e5231817db017\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:50:13-56
+	android:clearTaskOnLaunch
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\cc0676b33ec06124797e5231817db017\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:49:13-45
+	android:stateNotNeeded
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\cc0676b33ec06124797e5231817db017\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:51:13-42
+	android:windowSoftInputMode
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\cc0676b33ec06124797e5231817db017\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:53:13-60
+	android:theme
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\cc0676b33ec06124797e5231817db017\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:52:13-54
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\cc0676b33ec06124797e5231817db017\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:48:13-74
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\0db74c05b91e60b4097561523f7fc749\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\0db74c05b91e60b4097561523f7fc749\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\0db74c05b91e60b4097561523f7fc749\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\0db74c05b91e60b4097561523f7fc749\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\0db74c05b91e60b4097561523f7fc749\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\0db74c05b91e60b4097561523f7fc749\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\0db74c05b91e60b4097561523f7fc749\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\0db74c05b91e60b4097561523f7fc749\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\0db74c05b91e60b4097561523f7fc749\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\0db74c05b91e60b4097561523f7fc749\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\0db74c05b91e60b4097561523f7fc749\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\0db74c05b91e60b4097561523f7fc749\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\0db74c05b91e60b4097561523f7fc749\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\0db74c05b91e60b4097561523f7fc749\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\0db74c05b91e60b4097561523f7fc749\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\0db74c05b91e60b4097561523f7fc749\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\0db74c05b91e60b4097561523f7fc749\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\0db74c05b91e60b4097561523f7fc749\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\0db74c05b91e60b4097561523f7fc749\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\0db74c05b91e60b4097561523f7fc749\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\0db74c05b91e60b4097561523f7fc749\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92

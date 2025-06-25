@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="accent">#FFFF4081</color>
+    <color name="background_color">#FFF5F5F5</color>
+    <color name="black">#FF000000</color>
+    <color name="black_transparent">#80000000</color>
+    <color name="blue">#FF2196F3</color>
+    <color name="dark_background">#FF121212</color>
+    <color name="dark_primary_text">#FFFFFFFF</color>
+    <color name="dark_secondary_text">#FFAAAAAA</color>
+    <color name="dark_surface">#FF1E1E1E</color>
+    <color name="green">#FF4CAF50</color>
+    <color name="orange">#FFFF9800</color>
+    <color name="primary">#FF2196F3</color>
+    <color name="primary_dark">#FF1976D2</color>
+    <color name="primary_text">#FF212121</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="red">#FFF44336</color>
+    <color name="scanner_overlay">#66000000</color>
+    <color name="secondary_text">#FF757575</color>
+    <color name="surface_color">#FFFFFFFF</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="action_refresh">Atualizar</string>
+    <string name="action_settings">Configurações</string>
+    <string name="all_permissions_granted">✅ Todas as permissões concedidas</string>
+    <string name="app_name">Auto Dialer</string>
+    <string name="auto_dialer_active">Auto Dialer Ativo</string>
+    <string name="auto_dialer_service_running">Serviço de discagem automática em execução</string>
+    <string name="call_timeout">Timeout da Chamada (segundos)</string>
+    <string name="camera_permission_required">Permissão de câmera necessária</string>
+    <string name="checking_default_dialer">Verificando discador padrão...</string>
+    <string name="checking_permissions">Verificando permissões...</string>
+    <string name="checking_root">Verificando ROOT...</string>
+    <string name="conference_size">Tamanho da Conferência</string>
+    <string name="delay_between_calls">Delay Entre Chamadas (segundos)</string>
+    <string name="is_default_dialer">✅ Configurado como discador padrão</string>
+    <string name="not_default_dialer">❌ Não é o discador padrão</string>
+    <string name="permissions_pending">❌ Permissões pendentes</string>
+    <string name="qr_scan_button">Scanner QR Code</string>
+    <string name="qr_scanner_instruction">Posicione o QR Code dentro do quadro</string>
+    <string name="qr_scanner_title">Scanner QR Code</string>
+    <string name="request_permissions">Solicitar Permissões</string>
+    <string name="retry_attempts">Tentativas de Rediscagem</string>
+    <string name="root_available">✅ ROOT disponível</string>
+    <string name="root_not_available">❌ ROOT não disponível</string>
+    <string name="save_settings">Salvar Configurações</string>
+    <string name="server_url">URL do Servidor</string>
+    <string name="service_control">Controle do Serviço</string>
+    <string name="service_started">Serviço de discagem iniciado</string>
+    <string name="service_stopped">Serviço de discagem parado</string>
+    <string name="set_default_dialer">Definir como Discador Padrão</string>
+    <string name="settings">Configurações</string>
+    <string name="settings_title">Configurações</string>
+    <string name="start_service">Iniciar Serviço</string>
+    <string name="stop_service">Parar Serviço</string>
+    <string name="system_status">Status do Sistema</string>
+    <string name="warning_root_required">⚠️ Requer ROOT e todas as permissões\npara funcionamento completo</string>
+    <style name="AppTheme" parent="Theme.Material3.DayNight">
+        
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorSecondary">@color/accent</item>
+        <item name="colorSecondaryVariant">@color/accent</item>
+        <item name="colorOnSecondary">@android:color/white</item>
+        <item name="android:colorBackground">@color/background_color</item>
+        <item name="colorSurface">@color/surface_color</item>
+        <item name="colorOnSurface">@color/primary_text</item>
+    </style>
+    <style name="AppTheme.Button" parent="Widget.Material3.Button">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="backgroundTint">@color/primary</item>
+    </style>
+    <style name="AppTheme.Button.Outlined" parent="Widget.Material3.Button.OutlinedButton">
+        <item name="android:textColor">@color/primary</item>
+        <item name="strokeColor">@color/primary</item>
+    </style>
+    <style name="Theme.AutoDialer" parent="Theme.Material3.DayNight">
+        
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        
+        
+        <item name="colorSecondary">@color/accent</item>
+        <item name="colorSecondaryVariant">@color/accent</item>
+        <item name="colorOnSecondary">@android:color/white</item>
+        
+        
+        <item name="android:statusBarColor">@color/primary_dark</item>
+        <item name="android:navigationBarColor">@color/primary_dark</item>
+        
+        
+        <item name="android:colorBackground">@color/background_color</item>
+        <item name="colorSurface">@color/surface_color</item>
+        <item name="colorOnSurface">@color/primary_text</item>
+        
+        
+        <item name="android:windowLightStatusBar" ns1:targetApi="m">false</item>
+    </style>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Cores principais do app -->
+    <color name="primary">#FF2196F3</color>
+    <color name="primary_dark">#FF1976D2</color>
+    <color name="accent">#FFFF4081</color>
+    
+    <!-- Cores de fundo -->
+    <color name="background_color">#FFF5F5F5</color>
+    <color name="surface_color">#FFFFFFFF</color>
+    
+    <!-- Cores de texto -->
+    <color name="primary_text">#FF212121</color>
+    <color name="secondary_text">#FF757575</color>
+    
+    <!-- Cores de status -->
+    <color name="green">#FF4CAF50</color>
+    <color name="red">#FFF44336</color>
+    <color name="orange">#FFFF9800</color>
+    <color name="blue">#FF2196F3</color>
+    
+    <!-- Cores Material Design (que estavam faltando) -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    
+    <!-- Cores adicionais para tema escuro -->
+    <color name="dark_background">#FF121212</color>
+    <color name="dark_surface">#FF1E1E1E</color>
+    <color name="dark_primary_text">#FFFFFFFF</color>
+    <color name="dark_secondary_text">#FFAAAAAA</color>
+
+    <!-- Cores para QR Scanner -->
+    <color name="black_transparent">#80000000</color>
+    <color name="scanner_overlay">#66000000</color>
+</resources>

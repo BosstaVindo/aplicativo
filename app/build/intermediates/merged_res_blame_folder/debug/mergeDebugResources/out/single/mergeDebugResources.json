@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\BosstaVindo\\.gradle\\daemon\\8.11.1\\com.autodialer.app-debug-40:\\layout_activity_qr_scanner.xml.flat",
+        "source": "C:\\Users\\BosstaVindo\\.gradle\\daemon\\8.11.1\\com.autodialer.app-main-42:\\layout\\activity_qr_scanner.xml"
+    },
+    {
+        "merged": "com.autodialer.app-debug-40:/layout_custom_barcode_scanner.xml.flat",
+        "source": "com.autodialer.app-main-42:/layout/custom_barcode_scanner.xml"
+    },
+    {
+        "merged": "C:\\Users\\BosstaVindo\\.gradle\\daemon\\8.11.1\\com.autodialer.app-debug-40:\\layout_activity_dialer.xml.flat",
+        "source": "C:\\Users\\BosstaVindo\\.gradle\\daemon\\8.11.1\\com.autodialer.app-main-42:\\layout\\activity_dialer.xml"
+    },
+    {
+        "merged": "C:\\Users\\BosstaVindo\\.gradle\\daemon\\8.11.1\\com.autodialer.app-debug-40:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\BosstaVindo\\.gradle\\daemon\\8.11.1\\com.autodialer.app-main-42:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\BosstaVindo\\.gradle\\daemon\\8.11.1\\com.autodialer.app-debug-40:\\layout_activity_incall.xml.flat",
+        "source": "C:\\Users\\BosstaVindo\\.gradle\\daemon\\8.11.1\\com.autodialer.app-main-42:\\layout\\activity_incall.xml"
+    },
+    {
+        "merged": "C:\\Users\\BosstaVindo\\.gradle\\daemon\\8.11.1\\com.autodialer.app-debug-40:\\layout_custom_barcode_scanner.xml.flat",
+        "source": "C:\\Users\\BosstaVindo\\.gradle\\daemon\\8.11.1\\com.autodialer.app-main-42:\\layout\\custom_barcode_scanner.xml"
+    },
+    {
+        "merged": "C:\\Users\\BosstaVindo\\.gradle\\daemon\\8.11.1\\com.autodialer.app-debug-40:\\menu_main_menu.xml.flat",
+        "source": "C:\\Users\\BosstaVindo\\.gradle\\daemon\\8.11.1\\com.autodialer.app-main-42:\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\BosstaVindo\\.gradle\\daemon\\8.11.1\\com.autodialer.app-debug-40:\\drawable_ic_phone.xml.flat",
+        "source": "C:\\Users\\BosstaVindo\\.gradle\\daemon\\8.11.1\\com.autodialer.app-main-42:\\drawable\\ic_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\BosstaVindo\\.gradle\\daemon\\8.11.1\\com.autodialer.app-debug-40:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\BosstaVindo\\.gradle\\daemon\\8.11.1\\com.autodialer.app-main-42:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\BosstaVindo\\.gradle\\daemon\\8.11.1\\com.autodialer.app-debug-40:\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\BosstaVindo\\.gradle\\daemon\\8.11.1\\com.autodialer.app-main-42:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\BosstaVindo\\.gradle\\daemon\\8.11.1\\com.autodialer.app-debug-40:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\BosstaVindo\\.gradle\\daemon\\8.11.1\\com.autodialer.app-main-42:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.autodialer.app-debug-40:/layout_activity_qr_scanner.xml.flat",
+        "source": "com.autodialer.app-main-42:/layout/activity_qr_scanner.xml"
+    },
+    {
+        "merged": "C:\\Users\\BosstaVindo\\.gradle\\daemon\\8.11.1\\com.autodialer.app-debug-40:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\BosstaVindo\\.gradle\\daemon\\8.11.1\\com.autodialer.app-main-42:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\BosstaVindo\\.gradle\\daemon\\8.11.1\\com.autodialer.app-debug-40:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\BosstaVindo\\.gradle\\daemon\\8.11.1\\com.autodialer.app-main-42:\\xml\\backup_rules.xml"
+    }
+]

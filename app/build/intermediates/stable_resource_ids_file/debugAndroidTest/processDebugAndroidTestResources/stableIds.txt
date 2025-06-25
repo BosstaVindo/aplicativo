@@ -1,0 +1,2 @@
+com.autodialer.test:style/WhiteBackgroundTheme = 0x7f010001
+com.autodialer.test:style/WhiteBackgroundDialogTheme = 0x7f010000

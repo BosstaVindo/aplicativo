@@ -1,0 +1,6 @@
+com.autodialer.test.app-tracing-1.2.0-0 C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\a4d045ddeb61a4e2b19aa1b7171e6a14\transformed\tracing-1.2.0\res
+com.autodialer.test.app-core-1.6.1-1 C:\Users\BosstaVindo\.gradle\caches\8.11.1\transforms\d538cda17d5ca84a32063c115d820035\transformed\core-1.6.1\res
+com.autodialer.test.app-androidTest-2 C:\Users\BosstaVindo\Downloads\APLICATIVO\app\build\generated\res\resValues\androidTest\debug
+com.autodialer.test.app-mergeDebugAndroidTestResources-3 C:\Users\BosstaVindo\Downloads\APLICATIVO\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.autodialer.test.app-mergeDebugAndroidTestResources-4 C:\Users\BosstaVindo\Downloads\APLICATIVO\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.autodialer.test.app-debugAndroidTest-5 C:\Users\BosstaVindo\Downloads\APLICATIVO\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
